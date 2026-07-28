@@ -29,7 +29,9 @@
 // console.log(num.toString());
 
 // let str ="salom";
+
 // console.log(str .toUpperCase());
+
 // console.log(str .toLocaleLowerCase());
 
 // 6 localecompeir
@@ -39,6 +41,8 @@
 
 // console.log(a.localeCompare(b));
 
-// 7 eval str ichidagi matematik ammalarni to'g'ri ishlatib beradi 1.`~ 
+// 7 eval str ichidagi matematik ammalarni to'g'ri ishlatib beradi.
+
 // let sum ="19 -9 +(2*5)/10";
+
 // console.log(eval(sum));
