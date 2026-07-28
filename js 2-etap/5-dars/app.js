@@ -23,3 +23,13 @@
 // }
     
 // console.log(getSum(str));
+
+// let str = "algoritm and axford";
+
+// let one = "";
+// for (let i=0; i < str.length; i++){
+//     if(i % 2 == 0){
+//         one += str[i]
+//     }
+// }
+// console.log(one);
