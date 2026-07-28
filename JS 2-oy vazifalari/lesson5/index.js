@@ -80,11 +80,11 @@ console.log(text10.split(", "));
 let text11 = "   Salom dunyo   ";
 console.log(text11.trim()); 
 
-// 21
+// 21.
 let num = 12345;
 console.log(num.toString());
 
-// 22
+// 22.
 let text12 = "Men JavaScript bilaman";
 console.log(text12.toUpperCase()); 
 
