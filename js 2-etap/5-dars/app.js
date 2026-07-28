@@ -33,3 +33,17 @@
 //     }
 // }
 // console.log(one);
+
+// let str = "ALgOrItM and OXForD";
+// let strone =""
+// let strtwo=""
+
+// // for (let v of str ){
+// //     if (v === " ") continue;
+// //     else if (v ===v.toLowerCase())kichik +=v;
+// //     else katta += v;
+// // }
+// // console.log(katta);
+// // console.log(kichik);
+
+
