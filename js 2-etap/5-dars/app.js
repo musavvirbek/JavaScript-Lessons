@@ -10,40 +10,52 @@
 // console.log(reverseStr(str));
 
 
-// ====================================
+// // ====================================
 
 // 2 
-// let str ="Oxford";
+// let stre ="Oxford";
 // function getSum (str){
 //     let sum = 0 ;
-//     for (let value of str ){
+//     for (let value of stre ){
 //         sum += value.charCodeAt();
 //     }
 //     return sum 
 // }
     
-// console.log(getSum(str));
+// console.log(getSum(stre));
 
-// let str = "algoritm and axford";
+// let strr = "algoritm and axford";
 
 // let one = "";
-// for (let i=0; i < str.length; i++){
+// for (let i=0; i < stri.length; i++){
 //     if(i % 2 == 0){
-//         one += str[i]
+//         one += strr[i]
 //     }
 // }
 // console.log(one);
 
-// let str = "ALgOrItM and OXForD";
+// let stri = "ALgOrItM and OXForD";
 // let strone =""
 // let strtwo=""
 
-// // for (let v of str ){
-// //     if (v === " ") continue;
-// //     else if (v ===v.toLowerCase())kichik +=v;
-// //     else katta += v;
-// // }
-// // console.log(katta);
-// // console.log(kichik);
+// for (let v of stri ){
+//     if (v === " ") continue;
+//     else if (v ===v.toLowerCase())kichik +=v;
+//     else katta += v;
+// }
+// console.log(katta);
+// console.log(kichik);
 
+let strf ="NaMAnGaN VilIyAtI ";
+let struo=""
+let strio=""
+
+for(let b of strf ){
+    if (v === " ")continue;
+    else if (v ===v.toLowerCase())kachik +=v;
+    else katta +=v;
+}
+
+console.log(katta);
+console.log(katta);
 
