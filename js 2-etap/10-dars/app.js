@@ -28,3 +28,8 @@
 // 27	Object    ---------	key:value ko‘rinishida ma’lumot saqlaydi	{name:"Ali", age:20}
 // 28	Destructuring     ----------	Qiymatlarni ajratib oladi	const {name} = user
 // 29	Spread ---------       ...	Array/objectni yoyadi	[...arr]
+
+
+
+
+
